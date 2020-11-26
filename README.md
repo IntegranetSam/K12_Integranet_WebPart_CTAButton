@@ -25,5 +25,5 @@ Tested with Kentico 12.0.29
 
 ## [Questions & Support](https://github.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/blob/main/README.md)
 
-## [License](https://github.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/blob/main/LICENSE.txt)
+## [License](https://raw.githubusercontent.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/main/LICENSE)
 
