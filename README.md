@@ -17,7 +17,7 @@ Text Presets:
  2. In Kentico, go to the Sites application
  3. Select "Import sites or objects"
  4. Upload the package and import it (don't forget to check the "Import code files" checkbox)
- 5. Now you are ready to use it in the Pages application
+ 5. Now you are ready to use it in the Pages within a widget, or Design tab as a web part in a web part zone
  
  ## Usage
  ![](/CTAButton_demo.gif)
