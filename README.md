@@ -23,7 +23,7 @@ Text Presets:
  ![](/CTAButton_demo.gif)
  
  # Author
-This widget was created by Sam Collins @ Integranet Digital Pty Ltd.
+This widget was created by Sam Collins @ [Integranet Digital](https://integranet.net/)
 
 
 ## Compatibility
