@@ -18,6 +18,9 @@ Text Presets:
  3. Select "Import sites or objects"
  4. Upload the package and import it (don't forget to check the "Import code files" checkbox)
  5. Now you are ready to use it in the Pages application
+ 
+ # Author
+This widget was created by Sam Collins @ Integranet Digital Pty Ltd.
 
 
 ## Compatibility
