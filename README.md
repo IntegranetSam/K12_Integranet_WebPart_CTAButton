@@ -20,7 +20,7 @@ Text Presets:
  5. Now you are ready to use it in the Pages application
  
  ## Usage
- /CTAButton_demo.gif
+ (/CTAButton_demo.gif)
  
  # Author
 This widget was created by Sam Collins @ Integranet Digital Pty Ltd.
