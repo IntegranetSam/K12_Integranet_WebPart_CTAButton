@@ -26,7 +26,9 @@ This widget was created by Sam Collins @ Integranet Digital Pty Ltd.
 ## Compatibility
 Tested with Kentico 12.0.29
 
-## [Questions & Support](https://github.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/blob/main/README.md)
+# Reporting issues
+Please report any issues seen, in the issue list. We will address at the earliest possibility.
+Contact me at my email address -sam.collins@integranet.net
 
 ## [License](https://raw.githubusercontent.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/main/LICENSE)
 
