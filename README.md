@@ -18,3 +18,12 @@ Text Presets:
  3. Select "Import sites or objects"
  4. Upload the package and import it (don't forget to check the "Import code files" checkbox)
  5. Now you are ready to use it in the Pages application
+
+
+## Compatibility
+Tested with Kentico 12.0.29
+
+## [Questions & Support](https://github.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/blob/main/README.md)
+
+## [License](https://github.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/blob/main/LICENSE.txt)
+
