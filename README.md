@@ -31,7 +31,7 @@ Tested with Kentico 12.0.29
 
 # Reporting issues
 Please report any issues seen, in the issue list. We will address at the earliest possibility.
-Contact me at my email address -sam.collins@integranet.net
+Contact me at my email address: sam.collins@integranet.net
 
 ## [License](https://raw.githubusercontent.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/main/LICENSE)
 
