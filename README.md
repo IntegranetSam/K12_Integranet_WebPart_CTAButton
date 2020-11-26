@@ -13,7 +13,7 @@ Text Presets:
   - Find out more
   
 ## Installation
- 1. Download the latest package from [Release](https://github.com/Kentico/DisqusThread/releases)
+ 1. Download the latest package from [Release](https://github.com/IntegranetSam/K12_Integranet_WebPart_CTAButton/releases)
  2. In Kentico, go to the Sites application
  3. Select "Import sites or objects"
  4. Upload the package and import it (don't forget to check the "Import code files" checkbox)
