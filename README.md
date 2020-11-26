@@ -19,6 +19,9 @@ Text Presets:
  4. Upload the package and import it (don't forget to check the "Import code files" checkbox)
  5. Now you are ready to use it in the Pages application
  
+ ## Usage
+ 
+ 
  # Author
 This widget was created by Sam Collins @ Integranet Digital Pty Ltd.
 
